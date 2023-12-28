@@ -1,0 +1,12 @@
+# Folders
+venv
+driver
+__pycache__
+.DS_Store
+results
+temp
+wandb
+.next
+
+# Logs
+playwright-log.txt
